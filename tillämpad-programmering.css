@@ -2,7 +2,7 @@ body{
     padding: 0px;
     margin: 0px;
     color: white;
-    background-image: url(su-57.png);
+    background-image: url(Su-4720Fighter.jpg);
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
@@ -35,7 +35,7 @@ body{
     padding-right: 1.171875vw;
     font-size: 1.25vw;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
 }
    
@@ -93,10 +93,9 @@ body{
     opacity: 100%;
 }
 
-a#Linkfill {
+a.Linkfill {
     display: block;
     height: 100%;
     width: 100%;
     text-decoration: none;
 }
-

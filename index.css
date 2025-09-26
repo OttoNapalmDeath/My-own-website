@@ -87,7 +87,7 @@ body{
     padding: 10px;
     opacity: 100%;
 }
-a#Linkfill {
+a.Linkfill {
     display: block;
     height: 100%;
     width: 100%;
