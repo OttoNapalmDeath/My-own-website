@@ -1,0 +1,76 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    background-image: url(Vigge\ 1920x1080.jpg);
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.Header{
+    margin: 0.69444444444vh;
+    margin-bottom: 2.08333333333vh;
+    width: auto;
+    height: 5vw;
+    border-radius: 10px;
+    background-color: black;
+    opacity: 75%;
+    display: flex;
+    justify-content: space-evenly;
+}
+   
+.Header-left{
+    width: 92%;
+    height: 5vw;
+    padding-left: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+   
+.Header-right{
+    width: 8%;
+    height: 5vw;
+    padding-right: 1.171875vw;
+    font-size: 1.25vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+   
+.Header-right a {
+    text-decoration: none;
+    color: white;
+}
+   
+.Header-right li {
+    list-style: none;
+}
+   
+.Main-body {
+    width: 100%;
+    max-height: 720px;
+    display: flex;
+}
+   
+.Separator1 {
+    width: 7.8125%;
+    height: 45px;
+}
+
+.Separator2 {
+    width: 3.515625%;
+    height: 45px;
+}
+   
+.Infobox {
+    width: 25.78125%;
+    height: 80vh;
+    border-radius: 25px;
+    background-color: black;
+    opacity: 75%;
+}
+   
+.Infobox h2 {
+    display: flex;
+    justify-content: center;
+}
